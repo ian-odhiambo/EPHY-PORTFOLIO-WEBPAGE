@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm install --prefix FRONTEND && npm run build --prefix FRONTEND",
+  "outputDirectory": "./FRONTEND/dist",
+  "framework": "vite"
+}

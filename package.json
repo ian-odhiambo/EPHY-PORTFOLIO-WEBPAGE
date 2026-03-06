@@ -1,0 +1,21 @@
+{
+  "name": "ephy-portfolio-webpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ian-odhiambo/EPHY-PORTFOLIO-WEBPAGE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ian-odhiambo/EPHY-PORTFOLIO-WEBPAGE/issues"
+  },
+  "homepage": "https://github.com/ian-odhiambo/EPHY-PORTFOLIO-WEBPAGE#readme"
+}
