@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "ZURI OKONJO",
+    "style": "Avant-Garde Authenticity",
+    "description": "Bold patterns meet urban elegance. Zuri's look combines traditional African textiles with contemporary streetwear.",
+    "image": "/src/assets/images/ephy.png",
+    "alt": "Zuri Okonjo fashion model"
+  },
+  {
+    "id": 2,
+    "name": "MAKENA JONES",
+    "style": "Neo-Soul Minimalist",
+    "description": "Clean lines, earth tones, and effortless grace. Makena proves that less is always more.",
+    "image": "/src/assets/images/reeree3.png",
+    "alt": "Makena Jones fashion model"
+  },
+  {
+    "id": 3,
+    "name": "ELIJAH KWAME",
+    "style": "Vintage Rebel",
+    "description": "Thrifted classics reimagined. Elijah breathes new life into forgotten fashion eras.",
+    "image": "/src/assets/images/ephy3.png",
+    "alt": "Elijah Kwame fashion model"
+  },
+  {
+    "id": 4,
+    "name": "AMARA OKECHUKWU",
+    "style": "Afro-Futurist Dream",
+    "description": "Metallic accents meet ancestral prints. Amara designs for the world of tomorrow.",
+    "image": "/src/assets/images/model7.png",
+    "alt": "Amara Okechukwu fashion model"
+  },
+  {
+    "id": 5,
+    "name": "KAIDEN NAKAMURA",
+    "style": "Street Luxe",
+    "description": "High fashion meets sidewalk swagger. Kaiden redefines casual sophistication.",
+    "image": "/src/assets/images/Reeree.png",
+    "alt": "Kaiden Nakamura fashion model"
+  },
+  {
+    "id": 6,
+    "name": "SADE ADEWALE",
+    "style": "Bohemian Royalty",
+    "description": "Flowing silhouettes and crown-worthy confidence. Sade dresses like everyday is a celebration.",
+    "image": "/src/assets/images/model2.png",
+    "alt": "Sade Adewale fashion model"
+  },
+  {
+    "id": 7,
+    "name": "SADE ADEWALE",
+    "style": "Bohemian Royalty",
+    "description": "Flowing silhouettes and crown-worthy confidence. Sade dresses like everyday is a celebration.",
+    "image": "/src/assets/images/model8.png",
+    "alt": "Sade Adewale fashion model"
+  },
+  {
+    "id": 8,
+    "name": "SADE ADEWALE",
+    "style": "Bohemian Royalty",
+    "description": "Flowing silhouettes and crown-worthy confidence. Sade dresses like everyday is a celebration.",
+    "image": "/src/assets/images/model3.png",
+    "alt": "Sade Adewale fashion model"
+  },
+  {
+    "id": 9,
+    "name": "SADE ADEWALE",
+    "style": "Bohemian Royalty",
+    "description": "Flowing silhouettes and crown-worthy confidence. Sade dresses like everyday is a celebration.",
+    "image": "/src/assets/images/model9.png",
+    "alt": "Sade Adewale fashion model"
+  },
+  {
+    "id": 10,
+    "name": "SADE ADEWALE",
+    "style": "Bohemian Royalty",
+    "description": "Flowing silhouettes and crown-worthy confidence. Sade dresses like everyday is a celebration.",
+    "image": "/src/assets/images/model4.png",
+    "alt": "Sade Adewale fashion model"
+  },
+  {
+    "id": 11,
+    "name": "SADE ADEWALE",
+    "style": "Bohemian Royalty",
+    "description": "Flowing silhouettes and crown-worthy confidence. Sade dresses like everyday is a celebration.",
+    "image": "/src/assets/images/reeree2.png",
+    "alt": "Sade Adewale fashion model"
+  },
+  {
+    "id": 12,
+    "name": "SADE ADEWALE",
+    "style": "Bohemian Royalty",
+    "description": "Flowing silhouettes and crown-worthy confidence. Sade dresses like everyday is a celebration.",
+    "image": "/src/assets/images/model5.png",
+    "alt": "Sade Adewale fashion model"
+  },
+  {
+    "id": 13,
+    "name": "SADE ADEWALE",
+    "style": "Bohemian Royalty",
+    "description": "Flowing silhouettes and crown-worthy confidence. Sade dresses like everyday is a celebration.",
+    "image": "/src/assets/images/model7.png",
+    "alt": "Sade Adewale fashion model"
+  },
+  {
+    "id": 14,
+    "name": "SADE ADEWALE",
+    "style": "Bohemian Royalty",
+    "description": "Flowing silhouettes and crown-worthy confidence. Sade dresses like everyday is a celebration.",
+    "image": "/src/assets/images/model6.png",
+    "alt": "Sade Adewale fashion model"
+  },
+  {
+    "id": 15,
+    "name": "SADE ADEWALE",
+    "style": "Bohemian Royalty",
+    "description": "Flowing silhouettes and crown-worthy confidence. Sade dresses like everyday is a celebration.",
+    "image": "/src/assets/images/model10.png",
+    "alt": "Sade Adewale fashion model"
+  }
+]

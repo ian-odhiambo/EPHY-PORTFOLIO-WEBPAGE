@@ -1,0 +1,8 @@
+[
+  { "id": 1, "src": "work1", "alt": "Fashion design 1" },
+  { "id": 2, "src": "work2", "alt": "Fashion design 2" },
+  { "id": 3, "src": "work3", "alt": "Fashion design 3" },
+  { "id": 4, "src": "work4", "alt": "Fashion design 4" },
+  { "id": 5, "src": "work5", "alt": "Fashion design 5" },
+  { "id": 6, "src": "work6", "alt": "Fashion design 6" }
+]

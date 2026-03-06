@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "src": "sketch1",
+    "name": "Elegant Drape",
+    "description": "A flowing silhouette celebrating African textile heritage with modern minimalism"
+  },
+  {
+    "id": 2,
+    "src": "sketch2",
+    "name": "Royal Ankara",
+    "description": "Bold patterns meeting contemporary cuts for the confident fashionista"
+  },
+  {
+    "id": 3,
+    "src": "sketch3",
+    "name": "Tribal Fusion",
+    "description": "Ancient tribal motifs reimagined for the modern wardrobe"
+  },
+  {
+    "id": 4,
+    "src": "sketch4",
+    "name": "Kente Grace",
+    "description": "Luxurious woven details inspired by Ghanaian craftsmanship"
+  },
+  {
+    "id": 5,
+    "src": "sketch5",
+    "name": "Sahara Wind",
+    "description": "Desert-inspired layers capturing African landscapes essence"
+  },
+  {
+    "id": 6,
+    "src": "sketch6",
+    "name": "Urban Heritage",
+    "description": "Street-ready designs rooted in cultural authenticity"
+  },
+  {
+    "id": 7,
+    "src": "sketch7",
+    "name": "Sunset Palette",
+    "description": "Warm tones reflecting the African sunset in every thread"
+  }
+]

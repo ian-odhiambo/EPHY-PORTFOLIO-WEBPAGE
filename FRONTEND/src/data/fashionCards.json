@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "VISIONS OF PURPOSE",
+    "description": "Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.",
+    "image": "/src/assets/images/ephy4.png",
+    "alt": "Fashion model"
+  },
+  {
+    "id": 2,
+    "title": "MUSES",
+    "description": "In Luo culture,the agwata known as the calabash was and still more than a vessel.Once central to daily life, used for porridge and water, it also stood proudly as a decorative center piece in ceremonies. Today it emerges as a fashion muse , a sculptural symbol that bridges traditions and mordernity.It carved patterns,speaked of ancestry",
+    "image": "/src/assets/images/Reeree.png",
+    "alt": "Fashion shopping"
+  },
+  {
+    "id": 3,
+    "title": "MUSES",
+    "description": "Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.",
+    "image": "/src/assets/images/ephy4.png",
+    "alt": "Fashion accessories"
+  },
+  {
+    "id": 4,
+    "title": "THE FOURTH THING",
+    "description": "Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.",
+    "image": "/src/assets/images/ephy4.png",
+    "alt": "Fashion designer"
+  },
+  {
+    "id": 5,
+    "title": "ABOUT ME",
+    "description": "Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.",
+    "image": "/src/assets/images/about.png",
+    "alt": "Fashion runway"
+  },
+  {
+    "id": 6,
+    "title": "THE SIXTH THING",
+    "description": "Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.",
+    "image": "/src/assets/images/about2.png",
+    "alt": "Fashion street style"
+  }
+]
