@@ -1,15 +1,22 @@
 import React from 'react';
 import sketchesData from '../../data/sketches.json';
+import sketch1Img from '../../assets/sketches/sketch1.png';
+import sketch2Img from '../../assets/sketches/sketch2.png';
+import sketch3Img from '../../assets/sketches/sketch3.png';
+import sketch4Img from '../../assets/sketches/sketch4.png';
+import sketch5Img from '../../assets/sketches/sketch5.png';
+import sketch6Img from '../../assets/sketches/sketch6.png';
+import sketch7Img from '../../assets/sketches/sketch7.png';
 
 // Image mapping - maps JSON keys to actual image paths
 const sketchImages = {
-  sketch1: "/src/assets/sketches/sketch1.png",
-  sketch2: "/src/assets/sketches/sketch2.png",
-  sketch3: "/src/assets/sketches/sketch3.png",
-  sketch4: "/src/assets/dsketches/sketch4.png",
-  sketch5: "/src/assets/sketches/sketch5.png",
-  sketch6: "/src/assets/sketches/sketch6.png",
-  sketch7: "/src/assets/sketches/sketch7.png",
+  sketch1: sketch1Img,
+  sketch2: sketch2Img,
+  sketch3: sketch3Img,
+  sketch4: sketch4Img,
+  sketch5: sketch5Img,
+  sketch6: sketch6Img,
+  sketch7: sketch7Img,
 };
 
 const MyDesigns = () => {

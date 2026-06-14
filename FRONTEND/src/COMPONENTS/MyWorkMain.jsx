@@ -4,29 +4,47 @@ import workImagesData from '../data/calabash.json';
 import basketImagesData from '../data/baskets.json';
 import hairImagesData from '../data/afroHair.json';
 import MyDesigns from './Myworkpage-subcomponent/MyDesigns';
+import reereeImg from '../assets/images/Reeree.png';
+import model2Img from '../assets/images/model2.png';
+import calabash1Img from '../assets/images/calabash1.png';
+import model4Img from '../assets/images/model4.png';
+import calabash3Img from '../assets/images/calabash3.png';
+import calabash2Img from '../assets/images/calabash2.png';
+import basket3Img from '../assets/images/basket3.png';
+import basket2Img from '../assets/images/basket2.png';
+import womanbasketImg from '../assets/images/womanbasket.png';
+import basket4Img from '../assets/images/basket4.png';
+import basket1Img from '../assets/images/basket1.png';
+import basketImg from '../assets/images/basket.png';
+import afroImg from '../assets/images/afro.png';
+import afro3Img from '../assets/images/afro3.png';
+import reeree4Img from '../assets/images/reeree4.png';
+import afro1Img from '../assets/images/afro1.png';
+import afro2Img from '../assets/images/afro2.png';
+import aboutephy2Img from '../assets/images/aboutephy2.png';
 
 // Map image filenames to actual imports
 const imageMap = {
-  work1: "/src/assets/images/Reeree.png",
-  work2: "/src/assets/images/model2.png",
-  work3: "/src/assets/images/calabash1.png",
-  work4: "/src/assets/images/model4.png",
-  work5: "/src/assets/images/calabash3.png",
-  work6: "/src/assets/images/calabash2.png",
+  work1: reereeImg,
+  work2: model2Img,
+  work3: calabash1Img,
+  work4: model4Img,
+  work5: calabash3Img,
+  work6: calabash2Img,
 
-  basket1: "/src/assets/images/basket3.png",
-  basket2: "/src/assets/images/basket2.png",
-  basket3: "/src/assets/images/womanbasket.png",
-  basket4: "/src/assets/images/basket4.png",
-  basket5: "/src/assets/images/basket1.png",
-  basket6: "/src/assets/images/basket.png",
+  basket1: basket3Img,
+  basket2: basket2Img,
+  basket3: womanbasketImg,
+  basket4: basket4Img,
+  basket5: basket1Img,
+  basket6: basketImg,
 
-  afro1: "/src/assets/images/afro.png",
-  afro2: "/src/assets/images/afro3.png",
-  afro3: "/src/assets/images/reeree4.png",
-  afro4: "/src/assets/images/afro1.png",
-  afro5: "/src/assets/images/afro2.png",
-  afro6: "/src/assets/images/aboutephy2.png"
+  afro1: afroImg,
+  afro2: afro3Img,
+  afro3: reeree4Img,
+  afro4: afro1Img,
+  afro5: afro2Img,
+  afro6: aboutephy2Img
 };
 
 const MyWorkMain = () => {

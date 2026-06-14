@@ -1,5 +1,16 @@
-import React from 'react';
-import fashionCards from '../../data/fashionCards.json';
+import React from "react";
+import fashionCards from "../../data/fashionCards.json";
+import ephy4Img from "../../assets/images/ephy4.png";
+import reereeImg from "../../assets/images/Reeree.png";
+import aboutImg from "../../assets/images/about.png";
+import about2Img from "../../assets/images/about2.png";
+
+const imageMap = {
+  "/assets/images/ephy4.png": ephy4Img,
+  "/assets/images/Reeree.png": reereeImg,
+  "/assets/images/about.png": aboutImg,
+  "/assets/images/about2.png": about2Img,
+};
 
 const HomeCards = () => {
   return (
@@ -8,8 +19,10 @@ const HomeCards = () => {
         {/* Main heading */}
         <div className="mb-8 sm:mb-10 text-center">
           <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-white leading-tight">
-            WE CONDUCT EXPERIMENTS THAT<br className="hidden sm:block" />
-            MAY OR MAY NOT SERIOUSLY<br className="hidden sm:block" />
+            WE CONDUCT EXPERIMENTS THAT
+            <br className="hidden sm:block" />
+            MAY OR MAY NOT SERIOUSLY
+            <br className="hidden sm:block" />
             BREAK THE UNIVERSE
           </h2>
         </div>
@@ -17,16 +30,16 @@ const HomeCards = () => {
         {/* Cards with alternating layout */}
         <div className="space-y-12 sm:space-y-16">
           {fashionCards.map((card, index) => (
-            <div 
-              key={card.id} 
+            <div
+              key={card.id}
               className="flex flex-col md:flex-row items-center gap-6 md:gap-8 lg:gap-12"
             >
               {index % 2 === 0 ? (
                 <>
                   {/* Image on left for desktop, on top for mobile */}
                   <div className="w-full md:w-1/2 flex justify-center md:justify-end">
-                    <img 
-                      src={card.image} 
+                    <img
+                      src={imageMap[card.image] ?? card.image}
                       alt={card.alt}
                       className="w-48 h-48 sm:w-56 sm:h-56 md:w-64 md:h-64 object-cover rounded-sm transition-transform duration-500 hover:scale-105 hover:shadow-xl"
                     />
@@ -54,8 +67,8 @@ const HomeCards = () => {
                   </div>
                   {/* Image on right for desktop, below for mobile */}
                   <div className="w-full md:w-1/2 flex justify-center md:justify-start order-1 md:order-2">
-                    <img 
-                      src={card.image} 
+                    <img
+                      src={imageMap[card.image] ?? card.image}
                       alt={card.alt}
                       className="w-48 h-48 sm:w-56 sm:h-56 md:w-64 md:h-64 object-cover rounded-sm transition-transform duration-500 hover:scale-105 hover:shadow-xl"
                     />
@@ -72,8 +85,9 @@ const HomeCards = () => {
             GET SHADY WITH SCIENCE
           </h3>
           <p className="text-gray-200 text-sm sm:text-base leading-relaxed max-w-xl mx-auto px-4">
-            Vive saquae dictum etiam semper magnis enim Magni amet curabitur tempor orci penatibus. 
-            Tellus erat mauri sume fermentum etiam vivamus eget. Nam sibi morbi quis facer lacus.
+            Vive saquae dictum etiam semper magnis enim Magni amet curabitur
+            tempor orci penatibus. Tellus erat mauri sume fermentum etiam
+            vivamus eget. Nam sibi morbi quis facer lacus.
           </p>
         </div>
       </div>
