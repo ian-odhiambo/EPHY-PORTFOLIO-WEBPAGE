@@ -25,11 +25,11 @@
   },
   {
     "id": 4,
-    "name": "AMARA OKECHUKWU",
+    "name": "MARIANNE NJOKI",
     "style": "Afro-Futurist Dream",
     "description": "Metallic accents meet ancestral prints. Amara designs for the world of tomorrow.",
     "image": "/assets/images/model7.png",
-    "alt": "Amara Okechukwu fashion model"
+    "alt": "Marianne Njoki fashion model"
   },
   {
     "id": 5,
@@ -49,15 +49,15 @@
   },
   {
     "id": 7,
-    "name": "SADE ADEWALE",
+    "name": "SYLVIA ETAGO",
     "style": "Bohemian Royalty",
     "description": "Flowing silhouettes and crown-worthy confidence. Sade dresses like everyday is a celebration.",
     "image": "/assets/images/model8.png",
-    "alt": "Sade Adewale fashion model"
+    "alt": "Silvia Etago fashion model"
   },
   {
     "id": 8,
-    "name": "SADE ADEWALE",
+    "name": "JACKLYNE MUNGAI",
     "style": "Bohemian Royalty",
     "description": "Flowing silhouettes and crown-worthy confidence. Sade dresses like everyday is a celebration.",
     "image": "/assets/images/model3.png",
@@ -105,18 +105,18 @@
   },
   {
     "id": 14,
-    "name": "SADE ADEWALE",
+    "name": "NJOKI & ANNE",
     "style": "Bohemian Royalty",
     "description": "Flowing silhouettes and crown-worthy confidence. Sade dresses like everyday is a celebration.",
     "image": "/assets/images/model6.png",
-    "alt": "Sade Adewale fashion model"
+    "alt": "Njoki and Anne fashion model"
   },
   {
     "id": 15,
-    "name": "SADE ADEWALE",
+    "name": "WAMBAIRE TWINS",
     "style": "Bohemian Royalty",
     "description": "Flowing silhouettes and crown-worthy confidence. Sade dresses like everyday is a celebration.",
     "image": "/assets/images/model10.png",
-    "alt": "Sade Adewale fashion model"
+    "alt": "Wambaire twins fashion model"
   }
 ]
