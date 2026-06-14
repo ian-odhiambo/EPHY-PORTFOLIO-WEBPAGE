@@ -1,44 +1,44 @@
 [
   {
     "id": 1,
-    "title": "VISIONS OF PURPOSE",
-    "description": "Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.",
+    "title": "CONTEMPORARY ELEGANCE",
+    "description": "Every design begins with a vision. At AWUOR VISIONS, we transform cultural inspirations into wearable art. Our contemporary collections celebrate the boldness of modern fashion while honoring the richness of Luo heritage. From intricate patterns to refined silhouettes, each piece is a statement of identity and cultural pride.",
     "image": "/assets/images/ephy4.png",
-    "alt": "Fashion model"
+    "alt": "Contemporary fashion design"
   },
   {
     "id": 2,
-    "title": "MUSES",
-    "description": "In Luo culture,the agwata known as the calabash was and still more than a vessel.Once central to daily life, used for porridge and water, it also stood proudly as a decorative center piece in ceremonies. Today it emerges as a fashion muse , a sculptural symbol that bridges traditions and mordernity.It carved patterns,speaked of ancestry",
+    "title": "CULTURAL MUSES",
+    "description": "In Luo culture, the calabash (agwata) is far more than a vessel—it represents tradition, artistry, and spiritual significance. Once central to daily ceremonies and celebrations, it now inspires our fashion narrative. We've reimagined these sculptural forms as design elements, creating a bridge between ancestral wisdom and contemporary aesthetics. Carved patterns speak of ancestry, while modern tailoring celebrates our evolving identity.",
     "image": "/assets/images/Reeree.png",
-    "alt": "Fashion shopping"
+    "alt": "Cultural-inspired fashion pieces"
   },
   {
     "id": 3,
-    "title": "MUSES",
-    "description": "Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.",
+    "title": "ARTISANAL CRAFTSMANSHIP",
+    "description": "Tradition meets precision in our atelier. Each garment is handcrafted with meticulous attention to detail, blending traditional weaving techniques with modern construction methods. We work with local artisans to source premium materials that honor both quality and sustainability. The result is fashion that tells stories, preserves heritage, and celebrates the skilled hands behind every seam.",
     "image": "/assets/images/ephy4.png",
-    "alt": "Fashion accessories"
+    "alt": "Artisanal design process"
   },
   {
     "id": 4,
-    "title": "THE FOURTH THING",
-    "description": "Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.",
+    "title": "VIBRANT COLLECTIONS",
+    "description": "From bold evening wear to everyday essentials, AWUOR VISIONS offers collections that speak to the multifaceted woman. Our designs are inspired by the vibrancy of African aesthetics, the boldness of contemporary fashion, and the timeless elegance of cultural symbols. Each season brings fresh interpretations while maintaining the core values of authenticity and artistic expression that define our brand.",
     "image": "/assets/images/ephy4.png",
-    "alt": "Fashion designer"
+    "alt": "Diverse fashion collection"
   },
   {
     "id": 5,
-    "title": "ABOUT ME",
-    "description": "Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.",
+    "title": "THE DESIGNER BEHIND THE VISION",
+    "description": "I'm Ephy, a fashion designer driven by the intersection of culture and creativity. My journey began in the heart of Luo traditions, where I witnessed the artistry woven into every cultural artifact. I believe fashion is a powerful medium for storytelling and cultural preservation. Through AWUOR VISIONS, I create designs that celebrate heritage while embracing the boundless possibilities of modern style. Every collection is an invitation to feel the buzz of authentic, purposeful fashion.",
     "image": "/assets/images/about.png",
-    "alt": "Fashion runway"
+    "alt": "Designer Ephy"
   },
   {
     "id": 6,
-    "title": "THE SIXTH THING",
-    "description": "Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.",
+    "title": "SUSTAINABLE VISION",
+    "description": "We believe in fashion with purpose. AWUOR VISIONS is committed to sustainable practices, from ethical sourcing to eco-conscious production methods. We collaborate with local communities, ensuring that our success translates into meaningful opportunities for artisans and makers. Our vision extends beyond beautiful garments—it's about creating positive impact while celebrating the cultures that inspire us.",
     "image": "/assets/images/about2.png",
-    "alt": "Fashion street style"
+    "alt": "Sustainable fashion practice"
   }
 ]

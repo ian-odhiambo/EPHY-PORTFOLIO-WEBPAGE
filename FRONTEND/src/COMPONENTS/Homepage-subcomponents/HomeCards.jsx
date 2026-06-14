@@ -19,11 +19,11 @@ const HomeCards = () => {
         {/* Main heading */}
         <div className="mb-8 sm:mb-10 text-center">
           <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-white leading-tight">
-            WE CONDUCT EXPERIMENTS THAT
+            WHERE TRADITION MEETS
             <br className="hidden sm:block" />
-            MAY OR MAY NOT SERIOUSLY
+            CONTEMPORARY VISION
             <br className="hidden sm:block" />
-            BREAK THE UNIVERSE
+            AWUOR VISIONS CELEBRATES CULTURE THROUGH FASHION
           </h2>
         </div>
 
@@ -82,12 +82,14 @@ const HomeCards = () => {
         {/* Bottom section - centered */}
         <div className="text-center mt-12 sm:mt-16">
           <h3 className="text-xl sm:text-2xl font-bold text-white mb-3 sm:mb-4">
-            GET SHADY WITH SCIENCE
+            CRAFTED WITH PURPOSE
           </h3>
           <p className="text-gray-200 text-sm sm:text-base leading-relaxed max-w-xl mx-auto px-4">
-            Vive saquae dictum etiam semper magnis enim Magni amet curabitur
-            tempor orci penatibus. Tellus erat mauri sume fermentum etiam
-            vivamus eget. Nam sibi morbi quis facer lacus.
+            Every design is a conversation between past and present. We honor
+            ancestral wisdom while embracing modern innovation. Our collections
+            are more than fashion—they're cultural artifacts that celebrate
+            identity, creativity, and the vibrant spirit of contemporary African
+            design.
           </p>
         </div>
       </div>
