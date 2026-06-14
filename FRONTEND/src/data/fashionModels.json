@@ -1,19 +1,19 @@
 [
   {
     "id": 1,
-    "name": "ZURI OKONJO",
+    "name": "EPHY AWUOR",
     "style": "Avant-Garde Authenticity",
     "description": "Bold patterns meet urban elegance. Zuri's look combines traditional African textiles with contemporary streetwear.",
     "image": "/assets/images/ephy.png",
-    "alt": "Zuri Okonjo fashion model"
+    "alt": "Ephy Awuor fashion model"
   },
   {
     "id": 2,
-    "name": "MAKENA JONES",
+    "name": "RYAN OMONDI",
     "style": "Neo-Soul Minimalist",
     "description": "Clean lines, earth tones, and effortless grace. Makena proves that less is always more.",
     "image": "/assets/images/reeree3.png",
-    "alt": "Makena Jones fashion model"
+    "alt": "Reeree Omondi fashion model"
   },
   {
     "id": 3,
